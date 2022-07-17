@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7219a1a-d559-4dea-a808-7b5ddb97adf9" name="Changes" comment="" />
+    <list default="true" id="c7219a1a-d559-4dea-a808-7b5ddb97adf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Exercicios_Map/ExemploMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios_Map/OrdenacaoMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Execicio_Set/ExemploOrdenacaoSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execicio_Set/ExemploOrdenacaoSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Execicio_Set/ExemploSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execicio_Set/ExemploSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_List/ExemploList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_List/ExemploList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_List/ExemploOrdenacaoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_List/ExemploOrdenacaoList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2C0SYc7C1qK0fKaOuHzOw99LRBS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,6 +43,82 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.OrdenacaoMap">
+    <configuration name="ExemploMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios_Map.ExemploMap" />
+      <module name="trabalhandoComCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicios_Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploOrdenacaoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios_List.ExemploOrdenacaoList" />
+      <module name="trabalhandoComCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicios_List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploOrdenacaoSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Execicio_Set.ExemploOrdenacaoSet" />
+      <module name="trabalhandoComCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Execicio_Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Execicio_Set.ExemploSet" />
+      <module name="trabalhandoComCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Execicio_Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicios_Map.OrdenacaoMap" />
+      <module name="trabalhandoComCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicios_Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrdenacaoMap" />
+        <item itemvalue="Application.ExemploMap" />
+        <item itemvalue="Application.ExemploOrdenacaoSet" />
+        <item itemvalue="Application.ExemploSet" />
+        <item itemvalue="Application.ExemploOrdenacaoList" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +129,16 @@
       <updated>1657938075405</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
